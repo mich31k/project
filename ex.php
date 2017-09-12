@@ -5,4 +5,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-cus
+?>
+Enter your name: <input type="text" name=""/>
+<input type="button" value="ACCEPT"/>
+    <?php
